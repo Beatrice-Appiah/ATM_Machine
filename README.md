@@ -33,6 +33,8 @@ withdraw, change their pin and exit.
 ## TECH STACK:
 * PYTHON
    - Loops
+   - Control flow
+   - if statements
 
 
 ## FUTURE IMPROVEMENTS:
