@@ -49,4 +49,4 @@ Fork, create a branch, commit changes, push, and submit a pull request.
 Feel free to help fix any bug.
 For contributions or suggestions to improve this project. Kindly contact [Miss_Manuella_Okai](https://www.linkedin.com/in/manuella-okai-9bb414253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) or [Miss_Beatrice_Appiah](https://wa.me/qr/Y3G6KHYEQY5SK1).
 
-Let's make this game even better together !!!
+Let's make this project even better together !!!
